@@ -1,0 +1,119 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #000000;
+}
+
+.title-iguanas {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-size: 50px;
+  font-weight: 500;
+  text-align: center;
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Raleway', sans-serif
+}
+
+.img-header {
+  width: 100%
+}
+
+.text-img, .t-igu1 {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.igu1, .t-igu1 {
+  display: inline-block;
+}
+
+.text-igu {
+  display: inline-block;
+}
+
+.text-icon {
+  background-color: #1E1A13;
+  color: #FFFFFF;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+  padding-bottom: 70px;
+}
+
+.img-all {
+  background-color: #000000;
+}
+
+.footer-igu {
+  background-color: #1E1A13;
+  color: #ffffff;
+  padding: 50px;
+  text-align: center;
+  font-weight: 300;
+  font-size: 20px
+}
+
+.text-img {
+  padding: 40px;
+  text-align: left;
+  ;
+}
+
+.t-igu1 {
+  text-align-last: left;
+  width: 40%;
+  padding-right: 100px;
+  font-weight: 300;
+  margin-left: 130px
+}
+
+.igu1 {
+  width: 25%;
+}
+
+.img-sec {
+  display: inline-block;
+  width: 25vw;
+  height: 15vw;
+  object-fit: cover;
+  padding: 0 0.5rem;
+}
+
+.img-sec img {
+  width: 100%;
+  padding: 50px;
+  padding-left: 100px;
+  height: 15vw
+}
+
+.img-all {}
+
+.text-car {
+  padding: 50px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.icons {
+  display: inline-block;
+  text-align: center;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.fill {
+  color: #ffffff
+}
+
+h3 {
+  font-size: 21px;
+  font-weight: 300;
+  padding: 20px;
+}
